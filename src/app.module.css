@@ -1,0 +1,14 @@
+.fondo{
+background-image: url('./assets/Sky_Sunrises_and_sunsets_471782.jpg');
+width: 100%;
+background-position: center center;
+
+background-repeat: no-repeat;
+
+background-attachment: fixed;
+
+background-size: cover;
+
+background-color: 073b4c;
+}
+      
